@@ -1,0 +1,4 @@
+// Test Case 1
+// Variables:
+x = 1+2;
+print x;

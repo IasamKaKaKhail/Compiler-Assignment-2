@@ -1,0 +1,4 @@
+// Test Case 5
+// Error handling.
+y = 5 +
+print y;
